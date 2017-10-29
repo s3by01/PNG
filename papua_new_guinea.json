@@ -90,6 +90,7 @@
       },
       "properties": {
         "Name": "Sepik River",
+	"stroke-width": 3 , 
         "Country": "Papua New Guinea",
         "Accomodation": "Local Villages"
       }
