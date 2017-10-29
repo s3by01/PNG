@@ -1,0 +1,148 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [147.171030, -9.449369]
+      },
+      "properties": {
+	  "marker-color": "#ff8888",
+        "Name": "Port Moresby",
+        "Country": "Papua New Guinea",
+        "Accomodation": "Gateway Hotel"
+      }
+    },
+	
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [143.167509,-5.964682]
+      },
+      "properties": {
+	  "marker-color": "#ff8888",
+        "Name": "Tari",
+        "Country": "Papua New Guinea",
+        "Accomodation": "Ambua Lodge"
+      }
+    },
+	 {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [144.242077,-5.858096]
+      },
+      "properties": {
+	   "marker-color": "#ff8888",
+        "Name": "Mt Hagen",
+        "Country": "Papua New Guinea",
+        "Accomodation": "Highlander Hotel"
+      }
+    },
+	
+	 {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+		[144.529858,-3.877568],
+		[144.467879,-3.898180],
+		[144.506616,-3.882721],
+		[144.475627,-3.820882],
+		[144.447220,-3.887874],
+		[144.408483,-3.898180],
+		[144.429142,-3.939403],
+		[144.349086,-3.988353],
+		[144.230293,-3.947132],
+		[144.232875,-4.042451],
+		[144.124412,-4.091394],
+		[144.072025,-4.065821],
+		[144.005091,-4.154020],
+		[143.956969,-4.106023],
+		[143.838514,-4.139252],
+		[143.838514,-4.183556],
+		[143.764480,-4.183556],
+		[143.733478,-4.234070],
+		[143.592887,-4.183084],
+		[143.558804,-4.244692],
+		[143.456556,-4.200080],
+		[143.346448,-4.284734],
+		[143.026819,-4.059310],
+		[142.823626,-4.232368],
+		[142.832758,-4.264243],
+		[142.337334,-4.296117],
+		[141.901269,-4.259690]
+		]
+      },
+      "properties": {
+        "Name": "Sepik River",
+        "Country": "Papua New Guinea",
+        "Accomodation": "Local Villages"
+      }
+    },
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [141.901269,-4.259690]
+      },
+      "properties": {
+	  "marker-color": "#ff8888",
+        "Name": "Painu",
+        "Country": "Papua New Guinea"
+      }
+    },
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [144.529858,-3.877568]
+      },
+      "properties": {
+	  "marker-color": "#ff8888",
+        "name": "Broken Water Bay",
+        "country": "Papua New Guinea"
+      }
+    },
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [143.669156,-3.584095]
+      },
+      "properties": {
+	  "marker-color": "#ff8888",
+        "Name": "Wewak",
+        "Country": "Papua New Guinea"
+      }
+    },
+	  {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [141.295942,-6.118660]
+      },
+      "properties": {
+	    "marker-color": "#ff8888",
+        "Name": "Kiunga",
+        "Country": "Papua New Guinea",
+        "Accomodation": "Kiunga Guest House"
+      }
+    },
+	  {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [145.784613,-5.220835]
+      },
+      "properties": {
+	  "marker-color": "#ff8888",
+        "Name": "Madang",
+        "Country": "Papua New Guinea",
+        "Accomodation": "Madang Resort"
+      }
+    }
+  ]
+}
