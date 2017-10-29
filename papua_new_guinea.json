@@ -1,7 +1,19 @@
 {
   "type": "FeatureCollection",
   "features": [
-    {
+   	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 10.717991,59.916880]
+      },
+      "properties": {
+	  "marker-color": "#ff8888",
+        "name": "Lycée Français René Cassin",
+        "country": "Norway"
+      }
+    },
+   {
       "type": "Feature",
       "geometry": {
         "type": "Point",
